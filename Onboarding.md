@@ -116,15 +116,15 @@ Most communication regarding a contest and its judging process can be restricted
   - Matt (Platform Team)
     - Discord - @floopthepiggy
     - Email - matt@cyfrin.io
-    - Twitter -
+    - Twitter - [@mdurkin92](https://twitter.com/mdurkin92)
   - Mike (Platform Team)
     - Discord - @.mikek
     - Email - mike@cyfrin.io
-    - Twitter -
+    - Twitter - [@htmleverything](https://twitter.com/htmleverything)
   - Vitto (Head DevRel)
     - Discord - @0xvitto
     - Email - vitto@cyfrin.io
-    - Twitter - @VittoStack
+    - Twitter - [@VittoStack](https://twitter.com/VittoStack)
 
 ---
 
