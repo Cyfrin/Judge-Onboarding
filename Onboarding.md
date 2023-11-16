@@ -66,7 +66,7 @@ Welcome to the Cyfrin CodeHawks Judge Onboarding Guide! This document serves as 
 ## Ethical Guidelines
 
 - **Confidentiality**
-  - The nature of this industry is security and the role deals explicitly with vulnerable code. As such, the adage "need to know" should always come into play. We shouldn't discuss the specifics of findings or judgments outside of the scope of the contest unless explicitly necessary. All conversations regarding sensitive topics should be held through secure, adminstrative channels provided
+  - The nature of this industry is security and the role deals explicitly with vulnerable code. As such, the adage "need to know" should always come into play. We shouldn't discuss the specifics of findings or judgments outside of the scope of the contest unless explicitly necessary. All conversations regarding sensitive topics should be held through secure, administrative channels provided
 - **Conflict of Interest**
   - In an effort to mitigate conflicts of interest or bias, judges will be disallowed from participating in the contest to which they are assigned. Judges will be compensated as means to account for this restriction ($, XP)
 - **Integrity**
