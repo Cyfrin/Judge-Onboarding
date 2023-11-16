@@ -35,7 +35,7 @@ Your feedback is crucial for improving this resource. Please raise an issue in t
 
 ## Contact
 
-For any further queries or direct support, please contact `equious.eth` on [Discord](https://discord.gg/cyfrin) or email me at `travis@cyfrin.io`
+For any further queries or direct support, please contact **`equious.eth`** on [Discord](https://discord.gg/cyfrin) or email me at **`travis@cyfrin.io`**
 
 Thank you for your participation and contribution to making Cyfrin CodeHawks a success!
 
