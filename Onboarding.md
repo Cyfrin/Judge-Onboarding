@@ -37,24 +37,24 @@ Welcome to the Cyfrin CodeHawks Judge Onboarding Guide! This document serves as 
 
 - **Stages of Competition**:
 
-  - Submission Stage - Audit contest is active and participants are assessing the codebase and submitting possible vulnerabilities for judgement. This phase's duration varies, but is determined and communicated prior to the contest's announcement
+  - **Submission Stage** - Audit contest is active and participants are assessing the codebase and submitting possible vulnerabilities for judgement. This phase's duration varies, but is determined and communicated prior to the contest's announcement
 
-  - Judging Stage - Submissions are closed during this period and assessment of the validity of submissions received begins. The judge will closely consider each submission and ultimately determine its validity, leaving supporting comments for their decision in the appropriate space provided.
+  - **Judging Stage** - Submissions are closed during this period and assessment of the validity of submissions received begins. The judge will closely consider each submission and ultimately determine its validity, leaving supporting comments for their decision in the appropriate space provided.
 
-  - Appeals Stage - Once judging concludes, the contest is opened to a 48 hour appeals stage. This period allows participants to raise concerns with preliminary judgments and better support their submission. The judge may choose to begin interacting with appeals during this period to expedite the process.
+  - **Appeals Stage** - Once judging concludes, the contest is opened to a 48 hour appeals stage. This period allows participants to raise concerns with preliminary judgments and better support their submission. The judge may choose to begin interacting with appeals during this period to expedite the process.
 
-  - Appeals Review - After 48 hours has elapsed, comments on the platform will again be disabled to provide the judge time to review appeals. Once additional considerations have been made based on the submitted appeals, final judgments can be levied for each submission.
+  - **Appeals Review** - After 48 hours has elapsed, comments on the platform will again be disabled to provide the judge time to review appeals. Once additional considerations have been made based on the submitted appeals, final judgments can be levied for each submission.
 
-  - Contest Closure - The final stage is the closure of the contest and distribution of final rewards. Rewards are deposited into winners' wallets with 72 hours of contest closure.
+  - **Contest Closure** - The final stage is the closure of the contest and distribution of final rewards. Rewards are deposited into winners' wallets with 72 hours of contest closure.
 
 - **Timeline**:
-  - Submission Stage - Varies by contest, known well in advance.
-  - Judging Stage - Varies based on number of submissions and complexity of the codebase. Begins immediately following the submission stage.
+  - **Submission Stage** - Varies by contest, known well in advance.
+  - **Judging Stage** - Varies based on number of submissions and complexity of the codebase. Begins immediately following the submission stage.
     - Average duration **~1-2 weeks pending the aforementioned criteria**
-  - Appeals Stage - 48 hours, announced shortly after the judging stage closes
-  - Appeals Review - Varies by number of submissions
+  - **Appeals Stage** - 48 hours, announced shortly after the judging stage closes
+  - **Appeals Review** - Varies by number of submissions
     - Average duration **~1 week**
-  - Contest Closure - Instant, occurs upon finalization of the appeals review stage.
+  - **Contest Closure** - Instant, occurs upon finalization of the appeals review stage.
 
 ## Judging Criteria
 
